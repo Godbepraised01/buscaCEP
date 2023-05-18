@@ -1,0 +1,13 @@
+{
+  "name": "aula_tp_5",
+  "version": "1.0.0",
+  "description": "Projeto com front-end e back-end vinculado uma API de CEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "data": "09/05/2023",
+  "author": "Felipe Ferreira Fonseca",
+  "license": "ISC"
+}
